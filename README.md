@@ -1,2 +1,3 @@
-# NRGK_Fashion
-User Friendly E-Commerce Website
+# User-Interface-Design-Project
+ Ecommerce Website NRGK - New Royal Garment Kingdom
+Contributer : Girish
